@@ -1,0 +1,24 @@
+Record Type
+Char(2)
+Container Number
+Char(17)
+Description Sequence Number
+Num(3)
+Piece Count
+Num(10)
+Description Text 1
+Char(45)
+Description Text 2
+Char(45)
+Description Text 3
+Char(45)
+Description Text 4
+Char(45)
+Description Text 5
+Char(45)
+Description Text 6
+Char(45)
+Description Text 7
+Char(45)
+Description Text 8
+Char(45)

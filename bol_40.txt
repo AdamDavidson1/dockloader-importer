@@ -1,0 +1,26 @@
+Record Type
+Char(2)
+Consignee Name
+Char(35)
+Consignee Address, Line 1
+Char(50)
+Consignee Address, Line 2
+Char(50)
+Consignee Address, Line 3
+Char(50
+Consignee Address, Line 4
+Char(50)
+City
+Char(50)
+State/Province
+Char(2)
+Zip Code
+Char(10)
+Country Code
+Char(2)
+Contact Name
+Char(24)
+Comm Number Qualifier
+Char(2)
+Comm Number
+Char(64)

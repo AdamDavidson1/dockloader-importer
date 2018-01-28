@@ -1,0 +1,24 @@
+Record Type
+Char(2)
+Container Number
+Char(17)
+HAZMAT Sequence Number
+Num(3)
+HAZMAT Code
+Char(10)
+HAZMAT Class
+Char(4)
+HAZMAT Code Qualifier
+Char(1)
+HAZMAT Contact
+Char(24)
+HAZMAT Page Number
+Char(6)
+HAZMAT Flash Point Temperature
+Num(3)
+HAZMAT Flash Point Temperature Negative Ind
+Char(1)
+HAZMAT Flash Point Temperature Unit
+Char(3)
+HAZMAT Description
+Char(256)

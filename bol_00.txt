@@ -1,0 +1,18 @@
+Record Type
+Char(2)
+Master BOL Number
+Char(50)
+House BOL Number
+Char(50)
+Sub-House BOL Number
+Char(50)
+Voyage Number
+Char(50)
+Bill Type Code
+Char(2)
+Manifest Number
+Char(6)
+Trade Update Date
+Char(8)
+Run Date
+Char(8)

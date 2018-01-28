@@ -1,0 +1,94 @@
+Record Type
+Char(2)
+Container Number
+Char(17)
+Description Sequence Number
+Num(3)
+Harmonized Number 1
+Char(10)
+Harmonized Value 1
+Num(8)
+Harmonized Weight 1
+Num(10)
+Harmonized Weight Unit 1
+Char(3)
+Filler
+Char(11)
+Harmonized Number 2
+Char(10)
+Harmonized Value 2
+Num(8)
+Harmonized Weight 2
+Num(10)
+Harmonized Weight Unit 2
+Char(3)
+Filler
+Char(11)
+Harmonized Number 3
+Char(10)
+Harmonized Value 3
+Num(8)
+Harmonized Weight 3
+Num(10)
+Harmonized Weight Unit 3
+Char(3)
+Filler
+Char(11)
+Harmonized Number 4
+Char(10)
+Harmonized Value 4
+Num(8)
+Harmonized Weight 4
+Num(10)
+Harmonized Weight Unit 4
+Char(3)
+Filler
+Char(11)
+Harmonized Number 5
+Char(10)
+Harmonized Value 5
+Num(8)
+Harmonized Weight 5
+Num(10)
+Harmonized Weight Unit 5
+Char(3)
+Filler
+Char(11)
+Harmonized Number 6
+Char(10)
+Harmonized Value 6
+Num(8)
+Harmonized Weight 6
+Num(10)
+Harmonized Weight Unit 6
+Char(3)
+Filler
+Char(11)
+Harmonized Number 7
+Char(10)
+Harmonized Value 7
+Num(8)
+Harmonized Weight 7
+Num(10)
+Harmonized Weight Unit 7
+Char(3)
+Filler
+Char(11)
+Harmonized Number 8
+Char(10)
+Harmonized Value 8
+Num(8)
+Harmonized Weight 8
+Num(10)
+Harmonized Weight Unit 8
+Char(3)
+Filler
+Char(11)
+Harmonized Number 9
+Char(10)
+Harmonized Value 9
+Num(8)
+Harmonized Weight 9
+Num(10)
+Harmonized Weight Unit 9
+Char(3)

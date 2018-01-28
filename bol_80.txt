@@ -1,0 +1,20 @@
+Record Type
+Char(2)
+Container Number
+Char(17)
+Marks and Numbers 1
+Char(45)
+Marks and Numbers 2
+Char(45)
+Marks and Numbers 3
+Char(45)
+Marks and Numbers 4
+Char(45)
+Marks and Numbers 5
+Char(45)
+Marks and Numbers 6
+Char(45)
+Marks and Numbers 7
+Char(45)
+Marks and Numbers 8
+Char(45)

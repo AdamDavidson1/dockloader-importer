@@ -1,0 +1,66 @@
+Record Type
+Char(2)
+Vessel Country Code
+Char(2)
+Vessel Name
+Char(25)
+Port of Unlading
+Char(4)
+Estimated Arrival Date
+Char(8)
+Foreign Port of Lading Qualifier
+Char(1)
+Foreign Port of Lading
+Char(16)
+Manifest Quantity
+Num(11)
+Manifest Unit
+Char(5)
+Weight
+Num(11)
+Weight Unit
+Char(3)
+Measurement
+Num(11)
+Measurement Unit
+Char(3)
+Record Status Indicator
+Char(1)
+Place of Receipt
+Char(50)
+Port of Destination
+Char(4)
+Foreign Port of Destination Qualifier
+Char(1)
+Foreign Port of Destination
+Char(16)
+Conveyance ID Qualifier
+Char(2)
+Conveyance ID
+Char(25)
+In-bond Entry Type
+Char(2)
+Mode of Transportation
+Char(2)
+Secondary Notify Party 1
+Char(4)
+Secondary Notify Party 2
+Char(4)
+Secondary Notify Party 3
+Char(4)
+Secondary Notify Party 4
+Char(4)
+Secondary Notify Party 5
+Char(4)
+Secondary Notify Party 6
+Char(4)
+Secondary Notify Party 7
+Char(4)
+Secondary Notify Party 8
+Char(4)
+Secondary Notify Party 9
+Char(4)
+Secondary Notify Party 10
+Char(4)
+Actual Arrival Date
+Char(8)

@@ -1,0 +1,102 @@
+Record Type
+Char(2)
+Container Number
+Char(17)
+Seal Number 1
+Char(15)
+Seal Number 2
+Char(15)
+Equipment Description Code
+Char(2)
+Container Length
+Char(5)
+Container Height
+Char(8)
+Container Width
+Char(8)
+Container Type
+Char(4)
+Load Status
+Char(1)
+Type of Service
+Char(2)
+Container Number
+Char(17)
+Seal Number 1
+Char(15)
+Seal Number 2
+Char(15)
+Equipment Description Code
+Char(2)
+Container Length
+Char(5)
+Container Height
+Char(8)
+Container Width
+Char(8)
+Container Type
+Char(4)
+Load Status
+Char(1)
+Type of Service
+Char(2)
+Container Number
+Char(17)
+Seal Number 1
+Char(15)
+Seal Number 2
+Char(15)
+Equipment Description Code
+Char(2)
+Container Length
+Char(5)
+Container Height
+Char(8)
+Container Width
+Char(8)
+Container Type
+Char(4)
+Load Status
+Char(1)
+Type of Service
+Char(2)
+Container Number
+Char(17)
+Seal Number 1
+Char(15)
+Seal Number 2
+Char(15)
+Equipment Description Code
+Char(2)
+Container Length
+Char(5)
+Container Height
+Char(8)
+Container Width
+Char(8)
+Container Type
+Char(4)
+Load Status
+Char(1)
+Type of Service
+Char(2)
+Container Number
+Char(17)
+Seal Number 1
+Char(15)
+Seal Number 2
+Char(15)
+Equipment Description Code
+Char(2)
+Container Length
+Char(5)
+Container Height
+Char(8)
+Container Width
+Char(8)
+Container Type
+Char(4)
+Load Status
+Char(1)
+Type of Service
+Char(2)

@@ -1,0 +1,8 @@
+Record Type
+Char(2)
+Container Number
+Char(17)
+HAZMAT Sequence Number
+Num(3)
+HAZMAT Classification
+Char(256)
