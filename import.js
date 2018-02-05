@@ -97,7 +97,7 @@ knownFormats.forEach((file) => {
   entries[file] = [];
 });
 
-imports.handler = function(event, context, callback) {
+import.handler = function(event, context, callback) {
 
     // Retrieve the bucket & key for the uploaded S3 object that
     // caused this Lambda function to be triggered
